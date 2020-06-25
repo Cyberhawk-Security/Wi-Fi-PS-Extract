@@ -13,10 +13,18 @@ python WPS.py > savedDetails.txt
 Save that batch script as a *.bat file.
 Ex:- run.bat
 
+
 --------------------Screenshots-----------------------
+
+
+
+
 ![alt text](https://i.ibb.co/6s3wyZM/Results.png)
 ![alt text](https://i.ibb.co/s5LxvX7/Results.png)
 ![alt text](https://i.ibb.co/KG4hyCL/Results.png)
+
+
+
 
 
 For more details :- https://www.youtube.com/watch?v=Ejey18gpuA0
