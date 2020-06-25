@@ -6,8 +6,11 @@ Works on Python3 installed on a Windows System.
 You can save extracted Wi-Fi details via a batch script.
 
 -------------------Batch Script-----------------------
+
 @echo off
+
 python WPS.py > savedDetails.txt
+
 -------------End of the Batch Script------------------
 
 Save that batch script as a *.bat file.
